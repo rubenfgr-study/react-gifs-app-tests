@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifGridItem Test GifGridItem test snapshoot 1`] = `
+<div
+  className="card animate__animated animate__fadeInRight"
+>
+  <img
+    alt="Title"
+    src="http://localhost"
+  />
+  <p>
+    Title
+  </p>
+</div>
+`;

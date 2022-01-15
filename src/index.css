@@ -1,0 +1,51 @@
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+html, body {
+    margin: 10px;
+}
+
+input {
+    font-size: 1.2rem;
+    color: gray;
+    width: 100%;
+    border-radius: 3px;
+    border: 1px solid #666;
+    box-shadow: 0 0 5px 0 #ccc;
+    padding: 3px;
+}
+
+ol {
+    margin-left: 30px;
+}
+
+.card {
+    align-content: center;
+    border: 1px solid grey;
+    border-radius: 6px;
+    overflow: hidden;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    max-width: 30%;
+    text-align: center;
+}
+
+.card p {
+    padding: 5px;
+    text-align: center;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card-grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
